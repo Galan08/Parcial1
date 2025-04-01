@@ -8,4 +8,4 @@ Este proyecto es una aplicación web estática construida solo con **HTML y CSS*
 ✅ **CSS3** - Para los estilos y diseño visual  
 # 🌐 Desarrolladores:
 👨‍💻 **Johan Sebastian Galan Herrera** - 192348   
-👨‍💻 **Nombre del estudiante** - código  
+👨‍💻 **Yhoryi David Carrascal Jaimes** - 192406  
